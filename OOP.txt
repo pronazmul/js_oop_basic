@@ -1,1 +1,23 @@
-Definication: OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions. ... OOP provides a clear structure for the programs.
+OOP Defication: OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures
+ or functions that perform operations on the data, while object-oriented programming is about creating objects that 
+contain both data and functions. ... OOP provides a clear structure for the programs.
+
+Abstruction: Data abstraction refers to providing only essential information to the outside world and hiding their background 
+details, i.e., to represent the needed information in program without presenting the details.
+
+Encapsulation: Encapsulation means information hiding. It's about hiding as much as possible of the object's internal parts 
+and exposing a minimal public interface. The simplest and most elegant way to create encapsulation in JavaScript is using closures. 
+A closure can be created as a function with private state
+
+Inheritance: Inheritance is an important concept in object oriented programming. In the classical inheritance, 
+methods from base class get copied into derived class.
+
+Polymorphism: The polymorphism is a core concept of an object-oriented paradigm that provides a way to perform a single action in different forms.
+ It provides an ability to call the same method on different JavaScript objects. As JavaScript is not a type-safe language,
+ we can pass any type of data members with the methods.
+
+
+
+
+
+

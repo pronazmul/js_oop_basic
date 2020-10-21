@@ -13,9 +13,8 @@ class Hero {
         if(this.power && budget > 1000){
             console.log(this.getPower())
         }
-        return 'Price is too high, i can not buy';
+        return 'Price is too high, to buy for me';
     }
 }
-
 const catMan = new Hero('catman', 'Deep Khamsi');
 console.log(catMan.goForGrocery(100));

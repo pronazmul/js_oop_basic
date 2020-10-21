@@ -16,4 +16,4 @@ function StickyNote(color, price){
     this.price = price;
 }
 const yellow = new StickyNote('yellow', 40);
-console.log(yellow);
+console.log(yellow); 
